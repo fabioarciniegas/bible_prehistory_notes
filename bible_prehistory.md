@@ -85,10 +85,31 @@ In a literal reading of the bible or a historical but idealized view, the cultur
  Elephantine Papyri and material culture show that jewish people living in egypt at the time didn’t know Torah and when asking their families in the north, they would point them to assyrian custom, not Torah.
 The Judahite life in Babylon is relatively well documented and points to attempts at assimilation not jewish continuity
 
-## The Biblical lineage
+ ## The Biblical lineage
 
-TODO: The biblical lineage 
+One of the main literary purposes of the bible is to unify the narrative of *one* people under a single lineage.
 
+ - *Adam & Eve*
+  - Noah
+  - *Abraham* 
+  - Lot (wife into pillar of salt, Nephew of Abraham, patriarch of ammonites and moabites)
+    - *Abraham and Hagar*
+      - Ishmael (Islam)
+    - *Abraham and Sarah*
+      - *Isaac and Rebekah*
+      - (several stories added between them including Eliezer thinking she's hot, The well of beersheba which legitimizes territory)
+      - Esau (Edomites)
+      - *Jacob*  (12 tribes)
+         - (Lentitls and hairy arm tricking Isaac. Very much on behest of Rebekah, who wants also for him to go and find a woman of her own lineage). Jacob changes name into *Israel*
+        - *Israel and Rachel* 
+          - *Joseph*, Benjamin
+        - *Israel and Leah*
+          - Reuben,Simeon,*Levi*,*Judah*,Issachar,Zebulun, *Dinah* (only girl)
+        - *Israel and Zilpah*
+          - Gad, Asher
+        - *Israel and Bilhah*
+          - Dan, *Naphtali*
+  
 
 ## Reconstruction of text, plurality of sources
 
