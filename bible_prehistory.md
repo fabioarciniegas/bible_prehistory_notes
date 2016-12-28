@@ -85,7 +85,7 @@ In a literal reading of the bible or a historical but idealized view, the cultur
  Elephantine Papyri and material culture show that jewish people living in egypt at the time didn’t know Torah and when asking their families in the north, they would point them to assyrian custom, not Torah.
 The Judahite life in Babylon is relatively well documented and points to attempts at assimilation not jewish continuity
 
- ## The Biblical lineage
+## The Biblical lineage
 
 One of the main literary purposes of the bible is to unify the narrative of *one* people under a single lineage.
 
@@ -93,10 +93,10 @@ One of the main literary purposes of the bible is to unify the narrative of *one
   - Noah
   - *Abraham* 
   - Lot (wife into pillar of salt, Nephew of Abraham, patriarch of ammonites and moabites)
-    - *Abraham and Hagar*
-      - Ishmael (Islam)
-    - *Abraham and Sarah*
-      - *Isaac and Rebekah*
+  - *Abraham and Hagar*
+    - Ishmael (Islam)
+  - *Abraham and Sarah*
+    - *Isaac and Rebekah*
       - (several stories added between them including Eliezer thinking she's hot, The well of beersheba which legitimizes territory)
       - Esau (Edomites)
       - *Jacob*  (12 tribes)
@@ -109,8 +109,33 @@ One of the main literary purposes of the bible is to unify the narrative of *one
           - Gad, Asher
         - *Israel and Bilhah*
           - Dan, *Naphtali*
-  
+	    - *Joseph* sold by other 11 into slavery, becomes servant of potiphar, interprets dreams. Jacob comes after to egypt and stays (probably moved by drought?). 
+            - has many sons including *Ephraim*, ancestor of Joshua
+	    - (several generations pass)
+		- *Moses* descendant of Levi saved by the waters, raised by Egyptian royalty
+		  - (plagues, opens the red sea, brings down the commandment tables from sinai, dies right in front of the promised land of milk and honey)
+        - *Joshua* descendant of Ephraim and Joseph is actually the one to cross the Jordan and take the people into a unitiy
+		- (Big military leader: Angel appears to him, Walls of Jericho, sparing of Rahab, Stones achan, burns town of Ai, makes stones rain on the amorites, commands the sun to stand still)
+		- (Interim: in these battles women play a part - Jael kills Sisera with a nail to the head, Deborah sings about it)
+		
+ Now a period of unrest and lesser figures comes in (Book of Judges), basically proving the need for a single worth king.
+ 
+  - *Abimelech* killed by a woman with a stone (Judges)
+  - Jepthtah who has to kill his daughter because it's the first thing to come through, and he promised so.
+  - *Samson* who destroys philistines with a jawbone, slays a lion, carries the gates of gaza, and gets blinded and enslaved for letting Delilah cut his hair. On one last decent act he messes up the palace in which he was imprisioned.
+  - Naomi (old widow) and her daugters in law are very poor but one of them, Ruth, is taken by rich man Boaz, averting destitutio.
+  - The levite and the corpse of her concubine are the darkest and strangest of these pre-david tales. The Levite basically offers his concubine to avoid rape himself. The woman dies. 
 
+In Samuel, Kings, Chronicles we re-establish the better-known lineage.
+
+ - *Samuel* is not a king, but is chosen by Yaweh to identify the right king. He picks Saul.
+ - *Saul*: his daughter Michal is married to David. Has some early military success but then he visits the Witch of Endor who summons the spirit of Samuel who tells him he will loose to the philistines.Saul famously *falls on his own sword* 
+ - *David* kills Goliath the strong philistine and thus begins to eclipse Saul. Saul tries to kill him, at first Michal helps him escape. Also at a point david shows saul mercy and spares his life. Once David is king he gets drunk and dances naked thus loosing the respect of Michal.
+ - *Absalom*, son of David is momentarily on the same track of eclipsing/replacing older king (david) but instead dies with his head entangled on a tree as his mule goes on. David is very sad about this.
+ - *David and Bathseba*: david falls from grace because of his lust for bathseeba and his attempts to get her ex-husband to sleep with her after he made her pregnant.
+  - *Solomon* son and succesor of David. Wise and famous for his equinimity.  Builds the first temple. Receives the queen of sheba, though, and eventually sins into idolatry. Gods punishes the whole tribe which gets thus split. He is the last king of the unified kingdom.
+  
+ 
 ## Reconstruction of text, plurality of sources
 
 One fascinating aspect of critical reading of the bible is the identification of sources. The JEPD tradition (now revised and expanded but still useful to identify plurality) decomposes the text in four sources:
