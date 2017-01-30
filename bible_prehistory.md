@@ -1,6 +1,6 @@
-#title The Bible's Prehistory, Purpose, and Political Future
+# The Bible's Prehistory, Purpose, and Political Future
 
-# Early historical factors, location, interests
+## Early historical factors, location, interests
 
 Why was the bible produced at the time it was produced, and by the relatively small and powerless people of Canaan instead of the great civilizations around it like Assyrians or Egyptians?
 
